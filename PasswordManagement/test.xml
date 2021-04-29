@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <item id="0001">
+    <title>google</title>
+    <userid>佐藤</userid>
+    <password>hiroshi</password>
+  </item>
+  <item id="0002">
+    <title>amazon</title>
+    <userid>ryo</userid>
+    <password>aaaa</password>
+  </item>
+</items>
